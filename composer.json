@@ -1,20 +1,20 @@
 {
-  "name": "chuckmac/ninja-forms-acf-field",
+  "name": "simmerer/ninja-forms-acf-field",
   "version": "5.3.7",
   "description": "ACF field to select one or many Ninja Forms.",
   "license": "GNU General Public License v3.0",
   "keywords": [
     "wordpress", "plugin", "ninja-forms", "acf", "advanced-custom-fields"
   ],
-  "homepage": "https://github.com/ChuckMac/ninja-forms-acf-field/",
+  "homepage": "https://github.com/simmerer/ninja-forms-acf-field/",
   "support": {
-    "issues": "https://github.com/ChuckMac/ninja-forms-acf-field/issues/"
+    "issues": "https://github.com/simmerer/ninja-forms-acf-field/issues/"
   },
   "authors": [
     {
-      "name": "Chuck Mac",
-      "email": "chuck@chuckmacdev.com",
-      "homepage": "https://chuckmacdev.com/"
+      "name": "David Simmer",
+      "email": "david@simmerdesigns.com",
+      "homepage": "https://simmerdesigns.com/"
     }
   ],
   "type": "wordpress-plugin",

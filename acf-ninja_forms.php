@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Advanced Custom Fields: Ninja Forms Field
-Plugin URI: https://github.com/chuckmac/ninja-forms-acf-field
+Plugin URI: https://github.com/simmerer/ninja-forms-acf-field
 Description: ACF field to select one or many Ninja Forms
 Version: 3.1
-Author: chuckmac
-Author URI: https://www.chuckmac.info
+Author: simmerer
+Author URI: https://simmerdesigns.com
 License: GNU General Public License v3.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
